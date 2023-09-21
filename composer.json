@@ -1,5 +1,5 @@
 {
-  "name": "xianghua_we/zinc",
+  "name": "cyanface/zinc",
   "description": "zinc client",
   "require": {
     "ext-json": "*",
